@@ -1,0 +1,8 @@
+51cea2c942146acaeb35f9ee856eff9d *DESCRIPTION
+9eeff2646d07b40f845e50d2a4b3200b *NAMESPACE
+e42fda1a188b45cebf070205cf657f13 *R/Rfun_szgaGA.R
+bb27c8e4acdcdf15953c1f8b54d9d4e5 *R/Rfun_szgaGAw.R
+861fc6db77f72660342ba87b9fe5a5b8 *R/Rfun_szgaViz.R
+9a8c8064cc7c34cddc49d15930490c83 *man/szgaGA.Rd
+692491e81f65a3f30137e95b56aec008 *man/szgaGAw.Rd
+51fe0e6fcaf8a2a07ce266fd566023fd *man/szgaViz.Rd
